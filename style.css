@@ -17,6 +17,12 @@ header {
     height: 50px;
 }
 
+.navbar h2 {
+    margin: 0;
+    color: white;
+    text-align: center;
+}
+
 aside {
     width: 20%;
     float: left;
@@ -40,8 +46,9 @@ footer {
     clear: both;
     background-color: hsl(0, 0%, 86%);
     text-align: center;
-    padding: 25%;
+    padding: 25px;
 }
+
 
 @media screen and (max-width:600px) {
 
